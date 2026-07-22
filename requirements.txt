@@ -1,0 +1,7 @@
+streamlit
+pandas
+supabase
+streamlit-geolocation
+python-barcode
+altair
+openpyxl
