@@ -5,3 +5,5 @@ streamlit-geolocation
 python-barcode
 altair
 openpyxl
+requests
+libzbar0
